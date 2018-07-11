@@ -1,0 +1,36 @@
+{
+  "modules": [
+    {
+      "name": "Bible_Russian_CARS-Notes",
+      "type": "Bible notes"
+    },
+    {
+      "name": "Bible_Russian_CARS",
+      "type": "Bible"
+    },
+    {
+      "name": "Bible_Russian_RBO2011-Notes",
+      "type": "Bible notes"
+    },
+    {
+      "name": "Bible_Russian_RBO2011",
+      "type": "Bible"
+    },
+    {
+      "name": "Bible_Russian_RBO2015-Notes",
+      "type": "Bible notes"
+    },
+    {
+      "name": "Bible_Russian_RBO2015",
+      "type": "Bible"
+    },
+    {
+      "name": "Bible_Russian_RSP-Notes",
+      "type": "Bible notes"
+    },
+    {
+      "name": "Bible_Russian_RSP",
+      "type": "Bible"
+    }
+  ]
+}
