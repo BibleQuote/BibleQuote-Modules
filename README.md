@@ -25,7 +25,7 @@ Modules for BibleQuote software
 1. [Bible_ONT_Russian_RSP_0.0.1](./Bibles/Bible_ONT_Russian_RSP_0.0.1.7z)
 1. [Bible_ONT_Russian_ZB2015_0.0.1](./Bibles/Bible_ONT_Russian_ZB2015_0.0.1.7z)
 
-### Commantaries
+### Commentaries
 
 1. [Commentary_NT_Russian_Stern_0.0.1](./Commentaries/Commentary_NT_Russian_Stern_0.0.1.7z)
 1. [Commentary_ONT_Russian_RBO2011-Notes_0.0.1](./Commentaries/Commentary_ONT_Russian_RBO2011-Notes_0.0.1.7z)
