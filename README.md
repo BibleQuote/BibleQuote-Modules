@@ -27,13 +27,13 @@ Modules for BibleQuote software
 
 ### Commantaries
 
-1. Commentary_NT_Russian_Stern.7z
-1. Commentary_ONT_Russian_RBO2011-Notes.7z
-1. Commentary_ONT_Russian_ZB2015-Notes.7z
-1. Commentary_ONT_Russian_CARS-Notes.7z
-1. Commentary_ONT_Russian_RBO2015-Notes.7z
-1. Commentary_ONT_Russian_NRT-Notes.7z
-1. Commentary_ONT_Russian_RSP-Notes.7z
+1. Commentary_NT_Russian_Stern
+1. Commentary_ONT_Russian_RBO2011-Notes
+1. Commentary_ONT_Russian_ZB2015-Notes
+1. Commentary_ONT_Russian_CARS-Notes
+1. Commentary_ONT_Russian_RBO2015-Notes
+1. Commentary_ONT_Russian_NRT-Notes
+1. Commentary_ONT_Russian_RSP-Notes
 
 ### Dictionaries
 
