@@ -6,39 +6,39 @@ Modules for BibleQuote software
 
 ### Bibles and Commentaries
 
-`{Type}`\_`{OT|NT|ONT}`\_`{Language}`\_`{Code}`
+`{Type}`\_`{OT|NT|ONT}`\_`{Language}`\_`{Code}`\_`{Version}`
 
 ### Dictionaries and Books
 
-`{Type}`\_`{Language}`\_`{Code}`
+`{Type}`\_`{Language}`\_`{Code}`\_`{Version}`
 
 ## Modules
 
 ### Bibles
 
-1. Bible_NT_Russian_Stern
-1. Bible_ONT_Russian_CARS
-1. Bible_ONT_Russian_MDR
-1. Bible_ONT_Russian_NRT
-1. Bible_ONT_Russian_RBO2011
-1. Bible_ONT_Russian_RBO2015
-1. Bible_ONT_Russian_RSP
-1. Bible_ONT_Russian_ZB2015
+1. [Bible_NT_Russian_Stern_0.0.1](./Bibles/Bible_NT_Russian_Stern_0.0.1.7z)
+1. [Bible_ONT_Russian_CARS_0.0.2](./Bibles/Bible_ONT_Russian_CARS_0.0.2)
+1. [Bible_ONT_Russian_MDR_0.0.1](./Bibles/Bible_ONT_Russian_MDR_0.0.1)
+1. [Bible_ONT_Russian_NRT_0.0.1](./Bibles/Bible_ONT_Russian_NRT_0.0.1)
+1. [Bible_ONT_Russian_RBO2011_0.0.1](./Bibles/Bible_ONT_Russian_RBO2011_0.0.1)
+1. [Bible_ONT_Russian_RBO2015_0.0.1](./Bibles/Bible_ONT_Russian_RBO2015_0.0.1)
+1. [Bible_ONT_Russian_RSP_0.0.1](./Bibles/Bible_ONT_Russian_RSP_0.0.1)
+1. [Bible_ONT_Russian_ZB2015_0.0.1](./Bibles/Bible_ONT_Russian_ZB2015_0.0.1)
 
 ### Commantaries
 
-1. Commentary_NT_Russian_Stern
-1. Commentary_ONT_Russian_RBO2011-Notes
-1. Commentary_ONT_Russian_ZB2015-Notes
-1. Commentary_ONT_Russian_CARS-Notes
-1. Commentary_ONT_Russian_RBO2015-Notes
-1. Commentary_ONT_Russian_NRT-Notes
-1. Commentary_ONT_Russian_RSP-Notes
+1. [Commentary_NT_Russian_Stern_0.0.1](./Commentaries/Commentary_NT_Russian_Stern_0.0.1)
+1. [Commentary_ONT_Russian_RBO2011-Notes_0.0.1](./Commentaries/Commentary_ONT_Russian_RBO2011-Notes_0.0.1)
+1. [Commentary_ONT_Russian_ZB2015-Notes_0.0.1](./Commentaries/Commentary_ONT_Russian_ZB2015-Notes_0.0.1)
+1. [Commentary_ONT_Russian_CARS-Notes_0.0.1](./Commentaries/Commentary_ONT_Russian_CARS-Notes_0.0.1)
+1. [Commentary_ONT_Russian_RBO2015-Notes_0.0.1](./Commentaries/Commentary_ONT_Russian_RBO2015-Notes_0.0.1)
+1. [Commentary_ONT_Russian_NRT-Notes_0.0.1](./Commentaries/Commentary_ONT_Russian_NRT-Notes_0.0.1)
+1. [Commentary_ONT_Russian_RSP-Notes_0.0.1](./Commentaries/Commentary_ONT_Russian_RSP-Notes_0.0.1)
 
 ### Dictionaries
 
-1. Dictionary_Russian_Brokgauz
+1. [Dictionary_Russian_Brokgauz_0.0.2](./Dictionaries/Dictionary_Russian_Brokgauz_0.0.2)
 
 ### Books
 
-1. Book_Russian_Yunak
+1. [Book_Russian_Yunak_0.0.1](./Books/Book_Russian_Yunak_0.0.1)
