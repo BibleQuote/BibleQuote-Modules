@@ -17,8 +17,7 @@ Modules for BibleQuote software
 ### Bibles
 
 1. [Bible_NT_Russian_Stern_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_NT_Russian_Stern_0.0.1.7z)
-1. [Bible_ONT_Russian_CARS_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Russian_CARS_0.0.2.7z)
-1. [Bible_ONT_Russian_CARS_0.1.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Russian_CARS_0.1.2.7z)
+1. [Bible_ONT_Russian_CARS_0.1.0](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Russian_CARS_0.1.0.7z)
 1. [Bible_ONT_Russian_MDR_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Russian_MDR_0.0.1.7z)
 1. [Bible_ONT_Russian_NRT_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Russian_NRT_0.0.1.7z)
 1. [Bible_ONT_Russian_RBO2011_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Russian_RBO2011_0.0.1.7z)
