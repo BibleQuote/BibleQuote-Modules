@@ -44,7 +44,7 @@ Modules for BibleQuote software
 
 ### Dictionaries
 
-1. [Dictionary_Russian_Brokgauz_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Dictionaries/Dictionary_Russian_Brokgauz_0.0.2.7z)
+
 
 ### Books
 
