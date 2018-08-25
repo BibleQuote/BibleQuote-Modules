@@ -48,4 +48,5 @@ Modules for BibleQuote software
 
 ### Books
 
-1. [Book_Russian_Yunak_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Books/Book_Russian_Yunak_0.0.1.7z)
+1. [Book_Russian_Yunak_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Books/Book_Russian_Yunak_0.0.2.7z)
+1. [Book_Russian_Brokgauz_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Books/Book_Russian_Brokgauz_0.0.2.7z)
