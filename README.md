@@ -44,7 +44,7 @@ Modules for BibleQuote software
 
 ### Dictionaries
 
-
+  
 
 ### Books
 
