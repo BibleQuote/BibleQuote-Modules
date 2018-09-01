@@ -30,6 +30,7 @@ Modules for BibleQuote software
 1. [Bible_ONT_Ukrainian_Homenko_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Ukrainian_Homenko_0.0.1.7z)
 1. [Bible_ONT_Ukrainian_Kulish_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Ukrainian_Kulish_0.0.1.7z)
 1. [Bible_ONT_Ukrainian_Ogienko_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Ukrainian_Ogienko_0.0.1.7z)
+1. [Bible_ONT_Ukrainian_Turkonjak_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Ukrainian_Turkonjak_0.0.1.7z)
 
 ### Commentaries
 
@@ -40,7 +41,7 @@ Modules for BibleQuote software
 1. [Commentary_ONT_Russian_RBO2015-Notes_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Commentaries/Commentary_ONT_Russian_RBO2015-Notes_0.0.1.7z)
 1. [Commentary_ONT_Russian_RSP-Notes_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Commentaries/Commentary_ONT_Russian_RSP-Notes_0.0.1.7z)
 1. [Commentary_ONT_Russian_ZB2015-Notes_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Commentaries/Commentary_ONT_Russian_ZB2015-Notes_0.0.1.7z)
-
+1. [Commentary_ONT_Ukrainian_Turkonjak-Notes_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Commentaries/Commentary_ONT_Ukrainian_Turkonjak-Notes_0.0.1.7z)
 
 ### Dictionaries
 
