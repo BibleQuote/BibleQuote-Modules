@@ -33,6 +33,7 @@ Modules for BibleQuote software
 1. [Bible_ONT_Ukrainian_Ogienko_0.1.0](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Ukrainian_Ogienko_0.1.0.7z)
 1. [Bible_ONT_Ukrainian_Turkonjak_0.1.0](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Ukrainian_Turkonjak_0.1.0.7z)
 1. [Bible_ONT_Ukrainian_Filaret_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Ukrainian_Filaret_0.0.1.7z)
+1. [Bible_ONT_Ukrainian_Gihzi_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/Bibles/Bible_ONT_Ukrainian_Gihzi_0.0.1.7z)
 
 ### Commentaries
 
