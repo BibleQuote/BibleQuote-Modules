@@ -12,6 +12,10 @@ Modules for BibleQuote software
 
 `{Type}`\_`{Language}`\_`{Code}`\_`{Version}`
 
+## Publishing
+
+Read how to [publish modules](./PUBLISH.md).
+
 ## Modules
 
 ### Bibles
