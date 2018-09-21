@@ -56,6 +56,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Commentary_OT_Russian_Spurgeon_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_OT_Russian_Spurgeon_0.0.1.7z)
 1. [Commentary_ONT_Russian_MacDonald_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_ONT_Russian_MacDonald_0.0.1.7z)
 1. [Commentary_ONT_Russian_Henry_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_ONT_Russian_Henry_0.0.1.7z)
+1. [Commentary_OT_Russian_Hertz_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_OT_Russian_Hertz_0.0.1.7z)
 
 ### Dictionaries
 
