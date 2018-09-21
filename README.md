@@ -31,7 +31,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Bible_ONT_Russian_RBO2011_0.1.0](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_Russian_RBO2011_0.1.0.7z)
 1. [Bible_ONT_Russian_RBO2015_0.1.0](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_Russian_RBO2015_0.1.0.7z)
 1. [Bible_ONT_Russian_RSP_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_Russian_RSP_0.1.1.7z)
-1. [Bible_ONT_Russian_RST_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_Russian_RST_0.1.1.7z)
+1. [Bible_ONT_Russian_RST_0.1.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_Russian_RST_0.1.2.7z)
 1. [Bible_ONT_Russian_ZB2015_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_Russian_ZB2015_0.1.1.7z)
 1. [Bible_ONT_Ukrainian_Homenko_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_Ukrainian_Homenko_0.1.1.7z)
 1. [Bible_ONT_Ukrainian_Kulish_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_Ukrainian_Kulish_0.1.1.7z)
