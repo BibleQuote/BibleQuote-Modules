@@ -69,6 +69,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Book_Russian_Boston_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Boston_0.0.1.7z)
 1. [Book_Russian_Yunak_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Yunak_0.1.1.7z)
 1. [Book_Russian_Brokgauz_0.1.0](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Brokgauz_0.1.0.7z)
+1. [Book_Russian_Nikifor_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Nikifor_0.0.1.7z)
 1. [Book_Russian_Moore_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Moore_0.0.2.7z)
 1. [Book_Russian_Watson1_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson1_0.0.1.7z)
 1. [Book_Russian_Watson2_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson2_0.0.1.7z)
