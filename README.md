@@ -26,6 +26,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Bible_NT_Ukrainian_Morachevskiy_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_NT_Ukrainian_Morachevskiy_0.0.1.7z)
 1. [Bible_ONT_English_ASV-1901_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_English_ASV-1901_0.0.1.7z)
 1. [Bible_ONT_English_ESV-2007_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_English_ESV-2007_0.0.1.7z)
+1. [Bible_ONT_English_ISV-2011_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_English_ISV-2011_0.0.1.7z)
 1. [Bible_ONT_English_KJV-1769_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_English_KJV-1769_0.0.1.7z)
 1. [Bible_ONT_English_NIV-1984_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_English_NIV-1984_0.0.1.7z)
 1. [Bible_ONT_English_WEB-1997_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_English_WEB-1997_0.0.1.7z)
