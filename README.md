@@ -50,6 +50,7 @@ Read how to [publish modules](./PUBLISH.md).
 ### Commentaries
 
 1. [Commentary_NT_Russian_Barclay_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_NT_Russian_Barclay_0.0.1.7z)
+1. [Commentary_NT_Russian_McArthur_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_NT_Russian_McArthur_0.0.1.7z)
 1. [Commentary_NT_Russian_Ryle_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_NT_Russian_Ryle_0.0.2.7z)
 1. [Commentary_NT_Russian_Stern_0.1.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_NT_Russian_Stern_0.1.2.7z)
 1. [Commentary_NT_Russian_Wright_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_NT_Russian_Wright_0.0.1.7z)
