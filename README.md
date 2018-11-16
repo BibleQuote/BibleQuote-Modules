@@ -31,6 +31,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Bible_ONT_English_NHEB-2010_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_English_NHEB-2010_0.0.1.7z)
 1. [Bible_ONT_English_NIV-1984_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_English_NIV-1984_0.0.1.7z)
 1. [Bible_ONT_English_NJB-1985_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_English_NJB-1985_0.0.1.7z)
+1. [Bible_ONT_English_NLT-2013_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_English_NLT-2013_0.0.1.7z)
 1. [Bible_ONT_English_WEB-1997_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_English_WEB-1997_0.0.1.7z)
 1. [Bible_ONT_English_WMBB-2000_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_English_WMBB-2000_0.0.1.7z)
 1. [Bible_ONT_Russian_CARS_0.1.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ONT_Russian_CARS_0.1.2.7z)
