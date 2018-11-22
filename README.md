@@ -76,6 +76,8 @@ Read how to [publish modules](./PUBLISH.md).
 
 ### Dictionaries
 
+1. [Dictionary_Russian_Brockhaus_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Brockhaus_0.0.1.7z)
+
 ### Books
 
 1. [Book_Russian_Boston_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Boston_0.0.1.7z)
