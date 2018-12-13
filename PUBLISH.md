@@ -2,7 +2,7 @@
 
 ## Module archive
 
-Upload new module `*.7z` file to `/modules` folder.
+Upload a new module `*.zip` file to `/modules` folder.
 
 ## Module image
 
