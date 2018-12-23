@@ -4,12 +4,6 @@ Modules for BibleQuote software
 
 ## Naming Convention
 
-### Bibles and Commentaries
-
-`{Type}`\_`{Language}`\_`{Code}`\_`{Version}`
-
-### Dictionaries and Books
-
 `{Type}`\_`{Language}`\_`{Code}`\_`{Version}`
 
 ## Publishing
