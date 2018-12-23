@@ -50,7 +50,6 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Bible_Ukrainian_Turkonjak_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Turkonjak_0.1.1.zip)
 1. [Bible_Ukrainian_Filaret_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Filaret_0.0.1.zip)
 1. [Bible_Ukrainian_Gihzi_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Gihzi_0.0.1.zip)
-1. [RstStrong](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/RstStrong.zip)
 
 ### Commentaries
 
