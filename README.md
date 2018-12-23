@@ -40,6 +40,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Bible_Russian_RBO2015_0.1.0](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_RBO2015_0.1.0.zip)
 1. [Bible_Russian_RSP_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_RSP_0.1.1.zip)
 1. [Bible_Russian_RST_0.1.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_RST_0.1.2.zip)
+1. [Bible_Russian_RST_Strong_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_RST_Strong_0.0.1.zip)
 1. [Bible_Russian_Stern_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_Stern_0.1.1.zip)
 1. [Bible_Russian_ZB2015_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_ZB2015_0.1.1.zip)
 1. [Bible_Ukrainian_Homenko_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Homenko_0.1.1.zip)
