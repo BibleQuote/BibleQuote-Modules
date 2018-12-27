@@ -47,7 +47,7 @@ Read how to [publish modules](./PUBLISH.md).
 
 ### Commentaries
 
-1. [Commentary_Russian_Barclay_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Barclay_0.0.1.zip)
+1. [Commentary_Russian_Barclay_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Barclay_0.0.2.zip)
 1. [Commentary_Russian_Bridges_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Bridges_0.0.1.zip)
 1. [Commentary_Russian_CARS-Notes_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_CARS-Notes_0.1.1.zip)
 1. [Commentary_Russian_Guyon_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Guyon_0.0.1.zip)
@@ -81,7 +81,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Book_Russian_Boston_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Boston_0.0.1.zip)
 1. [Book_Russian_Yunak_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Yunak_0.1.1.zip)
 1. [Book_Russian_Calvin_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Calvin_0.0.1.zip)
-1. [Book_Russian_Moore_0.0.3](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Moore_0.0.3.zip)
+1. [Book_Russian_Moore_0.0.4](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Moore_0.0.4.zip)
 1. [Book_Russian_Snodgrass_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Snodgrass_0.0.1.zip)
 1. [Book_Russian_Watson1_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson1_0.0.1.zip)
 1. [Book_Russian_Watson2_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson2_0.0.1.zip)
