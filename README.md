@@ -40,7 +40,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Bible_Ukrainian_Homenko_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Homenko_0.1.1.zip)
 1. [Bible_Ukrainian_Kulish_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Kulish_0.1.1.zip)
 1. [Bible_Ukrainian_Morachevskiy_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Morachevskiy_0.0.1.zip)
-1. [Bible_Ukrainian_Ogienko_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Ogienko_0.1.1.zip)
+1. [Bible_Ukrainian_Ogienko_0.1.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Ogienko_0.1.2.zip)
 1. [Bible_Ukrainian_Turkonjak_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Turkonjak_0.1.1.zip)
 1. [Bible_Ukrainian_Filaret_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Filaret_0.0.1.zip)
 1. [Bible_Ukrainian_Gihzi_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Gihzi_0.0.1.zip)
