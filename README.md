@@ -28,7 +28,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Bible_Russian_JBL_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_JBL_0.1.1.zip)
 1. [Bible_Russian_Kassian_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_Kassian_0.1.1.zip)
 1. [Bible_Russian_MDR_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_MDR_0.1.1.zip)
-1. [Bible_Russian_NRT_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_NRT_0.1.1.zip)
+1. [Bible_Russian_NRT_0.1.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_NRT_0.1.2.zip)
 1. [Bible_Russian_OTNT_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_OTNT_0.1.1.zip)
 1. [Bible_Russian_RBO2011_0.1.0](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_RBO2011_0.1.0.zip)
 1. [Bible_Russian_RBO2015_0.1.0](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_RBO2015_0.1.0.zip)
@@ -75,6 +75,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Dictionary_Russian_Elwell-BBD_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-BBD_0.0.2.zip)
 1. [Dictionary_Russian_Elwell-TBD_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-TBD_0.0.1.zip)
 1. [Dictionary_Russian_Nikifor_0.0.4](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Nikifor_0.0.4.zip)
+1. [Dictionary_Russian_Nustrem_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Nustrem_0.0.1.zip)
 
 ### Books
 
