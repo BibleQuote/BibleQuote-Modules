@@ -48,6 +48,7 @@ Read how to [publish modules](./PUBLISH.md).
 ### Commentaries
 
 1. [Commentary_Russian_Barclay_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Barclay_0.0.2.zip)
+1. [Commentary_Russian_Calvin_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Calvin_0.0.1.zip)
 1. [Commentary_Russian_Bridges_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Bridges_0.0.1.zip)
 1. [Commentary_Russian_CARS-Notes_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_CARS-Notes_0.1.1.zip)
 1. [Commentary_Russian_Guyon_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Guyon_0.0.1.zip)
