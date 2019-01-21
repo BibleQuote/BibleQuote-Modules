@@ -18,6 +18,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Bible_English_ESV-2007_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_English_ESV-2007_0.0.1.zip)
 1. [Bible_English_ISV-2011_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_English_ISV-2011_0.0.1.zip)
 1. [Bible_English_KJV-1769_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_English_KJV-1769_0.0.1.zip)
+1. [Bible_English_KJV_1769-Strong_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_English_KJV_1769-Strong_0.0.2.zip)
 1. [Bible_English_NHEB-2010_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_English_NHEB-2010_0.0.1.zip)
 1. [Bible_English_NIV-1984_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_English_NIV-1984_0.0.1.zip)
 1. [Bible_English_NJB-1985_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_English_NJB-1985_0.0.1.zip)
