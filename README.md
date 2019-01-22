@@ -68,7 +68,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Commentary_Russian_Spurgeon_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Spurgeon_0.0.1.zip)
 1. [Commentary_Russian_Stern_0.1.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Stern_0.1.2.zip)
 1. [Commentary_Russian_Stott_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Stott_0.0.1.zip)
-1. [Commentary_Russian_Wiersbe_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Wiersbe_0.0.1.zip)
+1. [Commentary_Russian_Wiersbe_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Wiersbe_0.0.2.zip)
 1. [Commentary_Russian_Wright_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Wright_0.0.1.zip)
 1. [Commentary_Russian_ZB2015-Notes_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_ZB2015-Notes_0.1.1.zip)
 1. [Commentary_Ukrainian_Turkonjak-Notes_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Ukrainian_Turkonjak-Notes_0.1.1.zip)
