@@ -75,10 +75,10 @@ Read how to [publish modules](./PUBLISH.md).
 
 ### Dictionaries
 
-1. [Dictionary_Russian_Brockhaus_0.0.3](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Brockhaus_0.0.3.zip)
-1. [Dictionary_Russian_Elwell-BBD_0.0.3](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-BBD_0.0.3.zip)
+1. [Dictionary_Russian_Brockhaus_0.0.4](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Brockhaus_0.0.4.zip)
+1. [Dictionary_Russian_Elwell-BBD_0.0.4](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-BBD_0.0.4.zip)
 1. [Dictionary_Russian_Elwell-TBD_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-TBD_0.0.1.zip)
-1. [Dictionary_Russian_Nikifor_0.0.4](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Nikifor_0.0.4.zip)
+1. [Dictionary_Russian_Nikifor_0.0.5](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Nikifor_0.0.5.zip)
 1. [Dictionary_Russian_Nustrem_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Nustrem_0.0.1.zip)
 
 ### Books
