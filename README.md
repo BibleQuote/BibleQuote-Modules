@@ -82,7 +82,6 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Dictionary_Russian_Elwell-BBD_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-BBD_0.0.2.zip)
 1. [Dictionary_Russian_Elwell-TBD_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-TBD_0.0.1.zip)
 
-
 ### Books
 
 1. [Book_Russian_Boston_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Boston_2019-02-11.zip)
@@ -101,5 +100,3 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Book_Russian_Watson1_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson1_0.0.1.zip)
 1. [Book_Russian_Watson2_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson2_0.0.1.zip)
 1. [Book_Russian_Watson3_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson3_0.0.1.zip)
-1. [Book_Russian_Watson_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson_0.0.1.zip)
-
