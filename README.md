@@ -85,10 +85,23 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Book_Russian_Boston_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Boston_2019-02-11.zip)
 1. [Book_Russian_Yunak_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Yunak_2019-02-11.zip)
 1. [Book_Russian_Calvin_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Calvin_2019-02-11.zip)
-1. [Book_Russian_Moore_0.0.4](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Moore_0.0.4.zip)
 1. [Book_Russian_Moore_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Moore_2019-02-11.zip)
 1. [Book_Russian_Snodgrass_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Snodgrass_2019-02-11.zip)
 1. [Book_Russian_Watson1_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson1_2019-02-11.zip)
 1. [Book_Russian_Watson2_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson2_2019-02-11.zip)
 1. [Book_Russian_Watson3_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson3_2019-02-11.zip)
 1. [Book_Russian_Watson_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson_2019-02-11.zip)
+1. [Book_Russian_Moore_0.0.4](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Moore_0.0.4.zip)
+1. [Book_Russian_Boston_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Boston_0.0.1.zip)
+1. [Book_Russian_Yunak_0.1.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Yunak_0.1.1.zip)
+1. [Book_Russian_Calvin_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Calvin_0.0.1.zip)
+1. [Book_Russian_Watson1_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson1_0.0.1.zip)
+1. [Book_Russian_Watson2_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson2_0.0.1.zip)
+1. [Book_Russian_Watson3_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson3_0.0.1.zip)
+1. [Book_Russian_Watson_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson_0.0.1.zip)
+
+
+
+
+
+
