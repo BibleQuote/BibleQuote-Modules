@@ -88,7 +88,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Book_Russian_Yunak_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Yunak_2019-02-11.zip)
 1. [Book_Russian_Calvin_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Calvin_2019-02-11.zip)
 1. [Book_Russian_Moore_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Moore_2019-02-11.zip)
-1. [Book_Russian_Snodgrass_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Snodgrass_2019-02-11.zip)
+1. [Book_Russian_Snodgrass_2019-02-12](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Snodgrass_2019-02-12.zip)
 1. [Book_Russian_Watson1_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson1_2019-02-11.zip)
 1. [Book_Russian_Watson2_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson2_2019-02-11.zip)
 1. [Book_Russian_Watson3_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson3_2019-02-11.zip)
