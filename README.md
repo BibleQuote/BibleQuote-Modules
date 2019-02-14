@@ -79,6 +79,9 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Dictionary_Russian_Elwell-TBD_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-TBD_2019-02-09.zip)
 1. [Dictionary_Russian_Nikifor_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Nikifor_2019-02-09.zip)
 1. [Dictionary_Russian_Nustrem_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Nustrem_2019-02-09.zip)
+1. [Dictionary_Russian_Men_2019-02-14](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Men_2019-02-14.zip)
+1. [Dictionary_Russian_Vasilenko-RFD_2019-02-14](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Vasilenko-RFD_2019-02-14.zip)
+1. [Dictionary_Russian_Heading-DNTC_2019-02-14](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Heading-DNTC_2019-02-14.zip)
 1. [Dictionary_Russian_Elwell-BBD_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-BBD_0.0.2.zip)
 1. [Dictionary_Russian_Elwell-TBD_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-TBD_0.0.1.zip)
 
