@@ -66,7 +66,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Commentary_Russian_Smit_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Smit_2019-02-11.zip)
 1. [Commentary_Russian_Spurgeon_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Spurgeon_2019-02-11.zip)
 1. [Commentary_Russian_Stern_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Stern_2019-02-11.zip)
-1. [Commentary_Russian_Stott_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Stott_2019-02-11.zip)
+1. [Commentary_Russian_Stott_2019-02-18](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Stott_2019-02-18.zip)
 1. [Commentary_Russian_Wiersbe_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Wiersbe_2019-02-11.zip)
 1. [Commentary_Russian_Wright_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Wright_2019-02-11.zip)
 1. [Commentary_Russian_ZB2015-Notes_2019-02-11](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_ZB2015-Notes_2019-02-11.zip)
