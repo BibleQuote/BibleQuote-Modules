@@ -26,7 +26,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Bible_English_WEB-1997_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_English_WEB-1997_2019-02-09.zip)
 1. [Bible_English_WMBB-2000_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_English_WMBB-2000_2019-02-09.zip)
 1. [Bible_Russian_CARS_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_CARS_2019-02-09.zip)
-1. [Bible_Russian_JBL_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_JBL_2019-02-09.zip)
+1. [Bible_Russian_JBL_2019-04-16](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_JBL_2019-04-16.zip)
 1. [Bible_Russian_Kassian_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_Kassian_2019-02-09.zip)
 1. [Bible_Russian_MDR_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_MDR_2019-02-09.zip)
 1. [Bible_Russian_NRT_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_NRT_2019-02-09.zip)
