@@ -38,6 +38,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Bible_Russian_RST_2019-02-19](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_RST_2019-02-19.zip)
 1. [Bible_Russian_Stern_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_Stern_2019-02-09.zip)
 1. [Bible_Russian_ZB2015_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_ZB2015_2019-02-09.zip)
+1. [Bible_Slavic_UCS_2019-05-06](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Slavic_UCS_2019-05-06.zip)
 1. [Bible_Ukrainian_Homenko_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Homenko_2019-02-09.zip)
 1. [Bible_Ukrainian_Kulish_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Kulish_2019-02-09.zip)
 1. [Bible_Ukrainian_Morachevskiy_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Morachevskiy_2019-02-09.zip)
