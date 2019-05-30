@@ -39,13 +39,13 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Bible_Russian_Stern_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_Stern_2019-05-30.zip)
 1. [Bible_Russian_ZB2015_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Russian_ZB2015_2019-05-30.zip)
 1. [Bible_Slavic_UCS_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Slavic_UCS_2019-05-30.zip)
-1. [Bible_Ukrainian_Homenko_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Homenko_2019-02-09.zip)
-1. [Bible_Ukrainian_Kulish_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Kulish_2019-02-09.zip)
-1. [Bible_Ukrainian_Morachevskiy_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Morachevskiy_2019-02-09.zip)
-1. [Bible_Ukrainian_Ogienko_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Ogienko_2019-02-09.zip)
-1. [Bible_Ukrainian_Turkonjak_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Turkonjak_2019-02-09.zip)
-1. [Bible_Ukrainian_Filaret_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Filaret_2019-02-09.zip)
-1. [Bible_Ukrainian_Gihzi_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Gihzi_2019-02-09.zip)
+1. [Bible_Ukrainian_Homenko_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Homenko_2019-05-30.zip)
+1. [Bible_Ukrainian_Kulish_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Kulish_2019-05-30.zip)
+1. [Bible_Ukrainian_Morachevskiy_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Morachevskiy_2019-05-30.zip)
+1. [Bible_Ukrainian_Ogienko_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Ogienko_2019-05-30.zip)
+1. [Bible_Ukrainian_Turkonjak_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Turkonjak_2019-05-30.zip)
+1. [Bible_Ukrainian_Filaret_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Filaret_2019-05-30.zip)
+1. [Bible_Ukrainian_Gihzi_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Gihzi_2019-05-30.zip)
 
 ### Commentaries
 
