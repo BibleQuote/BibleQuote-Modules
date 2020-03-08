@@ -89,6 +89,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Dictionary_Russian_kodrant_2019-03-15](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_kodrant_2019-03-15.zip)
 1. [Dictionary_Russian_Stepin_2020-03-03](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Stepin_2020-03-03.zip)
 1. [Dictionary_Russian_logos_2020-03-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_logos_2020-03-09.zip)
+1. [Dictionary_Russian_Judaism_2020-03-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Judaism_2020-03-09.zip)
 1. [Dictionary_Russian_Westminster_2020-02-10](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Westminster_2020-02-10.zip)
 1. [Dictionary_Russian_Elwell-BBD_0.0.2](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-BBD_0.0.2.zip)
 1. [Dictionary_Russian_Elwell-TBD_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-TBD_0.0.1.zip)
