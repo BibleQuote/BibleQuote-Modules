@@ -117,4 +117,4 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Book_Russian_Watson1_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson1_0.0.1.zip)
 1. [Book_Russian_Watson2_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson2_0.0.1.zip)
 1. [Book_Russian_Watson3_0.0.1](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Watson3_0.0.1.zip)
-1. [Book_Russian_Vera_2020-01-02](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Vera_2020-01-02.zip)
+1. [Book_Russian_Vera_2020-04-29](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Book_Russian_Vera_2020-04-29.zip)
