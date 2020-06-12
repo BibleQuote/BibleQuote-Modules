@@ -92,6 +92,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Dictionary_Russian_Nustrem_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Nustrem_2019-02-09.zip)
 1. [Dictionary_Russian_PDBS_2020-05-31](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_PDBS_2020-05-31.zip)
 1. [Dictionary_Russian_PDCH_2020-05-31](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_PDCH_2020-05-31.zip)
+1. [Dictionary_Russian_RPD_2020-06-12](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_RPD_2020-06-12.zip)
 1. [Dictionary_Russian_Stepin_2020-03-03](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Stepin_2020-03-03.zip)
 1. [Dictionary_Russian_Vasilenko-RFD_2019-02-14](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Vasilenko-RFD_2019-02-14.zip)
 1. [Dictionary_Russian_Westminster_2020-02-10](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Westminster_2020-02-10.zip)
