@@ -81,7 +81,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Dictionary_Russian_Brockhaus_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Brockhaus_2019-02-09.zip)
 1. [Dictionary_Russian_Elwell-BBD_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-BBD_2019-02-09.zip)
 1. [Dictionary_Russian_Elwell-TBD_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-TBD_2019-02-09.zip)
-1. [Dictionary_Russian_FullOrthodox_2020-02-23](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_FullOrthodox_2020-02-23.zip)
+1. [Dictionary_Russian_FullOrthodox_2020-08-08](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_FullOrthodox_2020-08-08.zip)
 1. [Dictionary_Russian_Heading-DNTC_2019-02-14](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Heading-DNTC_2019-02-14.zip)
 1. [Dictionary_Russian_Iisus_2020-02-02](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Iisus_2020-02-02.zip)
 1. [Dictionary_Russian_Judaism_2020-03-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Judaism_2020-03-09.zip)
