@@ -63,6 +63,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Commentary_Russian_McArthur_2020-05-20](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_McArthur_2020-05-20.zip)
 1. [Commentary_Russian_NRT-Notes_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_NRT-Notes_2019-05-30.zip)
 1. [Commentary_Russian_Polonsky_2020-04-08](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Polonsky_2020-04-08.zip)
+1. [Commentary_Russian_Polonsky_2021-02-04](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Polonsky_2021-02-04.zip)
 1. [Commentary_Russian_RBO2011-Notes_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_RBO2011-Notes_2019-05-30.zip)
 1. [Commentary_Russian_RBO2015-Notes_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_RBO2015-Notes_2019-05-30.zip)
 1. [Commentary_Russian_RSP-Notes_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_RSP-Notes_2019-05-30.zip)
