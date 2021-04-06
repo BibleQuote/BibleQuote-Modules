@@ -70,7 +70,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Commentary_Russian_Ryle_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Ryle_2019-05-30.zip)
 1. [Commentary_Russian_Smit_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Smit_2019-05-30.zip)
 1. [Commentary_Russian_Spurgeon_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Spurgeon_2019-05-30.zip)
-1. [Commentary_Russian_Stern_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Stern_2019-05-30.zip)
+1. [Commentary_Russian_Stern_2021-04-06](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Stern_2021-04-06.zip)
 1. [Commentary_Russian_Stott_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Stott_2019-05-30.zip)
 1. [Commentary_Russian_Wiersbe_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Wiersbe_2019-05-30.zip)
 1. [Commentary_Russian_Wright_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Commentary_Russian_Wright_2019-05-30.zip)
