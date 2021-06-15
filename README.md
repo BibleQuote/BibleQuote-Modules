@@ -79,7 +79,7 @@ Read how to [publish modules](./PUBLISH.md).
 
 ### Dictionaries
 
-1. [Dictionary_Russian_Brockhaus_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Brockhaus_2019-02-09.zip)
+1. [Dictionary_Russian_Brockhaus_2021-06-15](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Brockhaus_2021-06-15.zip)
 1. [Dictionary_Russian_Elwell-BBD_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-BBD_2019-02-09.zip)
 1. [Dictionary_Russian_Elwell-TBD_2019-02-09](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Elwell-TBD_2019-02-09.zip)
 1. [Dictionary_Russian_FullOrthodox_2020-08-08](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_FullOrthodox_2020-08-08.zip)
