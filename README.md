@@ -99,7 +99,7 @@ Read how to [publish modules](./PUBLISH.md).
 9. [Dictionary_Russian_BTD-Rhodes_2020-06-17](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_BTD-Rhodes_2020-06-17.zip)
 10. [Dictionary_Russian_PDBS_2020-05-31](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_PDBS_2020-05-31.zip)
 11. [Dictionary_Russian_PDCH_2020-05-31](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_PDCH_2020-05-31.zip)
-12. 1. [Dictionary_Russian_PDTT_2021-08-21](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_PDTT_2021-08-21.zip)
+12. [Dictionary_Russian_PDTT_2021-08-21](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_PDTT_2021-08-21.zip)
 13. [Dictionary_Russian_RPD_2020-06-12](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_RPD_2020-06-12.zip)
 14. [Dictionary_Russian_Stepin_2020-03-03](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Stepin_2020-03-03.zip)
 15. [Dictionary_Russian_Vasilenko-RFD_2019-02-14](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Dictionary_Russian_Vasilenko-RFD_2019-02-14.zip)
