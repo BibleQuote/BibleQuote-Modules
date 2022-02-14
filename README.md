@@ -46,7 +46,7 @@ Read how to [publish modules](./PUBLISH.md).
 1. [Bible_Ukrainian_Turkonjak_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Turkonjak_2019-05-30.zip)
 1. [Bible_Ukrainian_Filaret_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Filaret_2019-05-30.zip)
 1. [Bible_Ukrainian_Gihzi_2019-05-30](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_Ukrainian_Gihzi_2019-05-30.zip)
-1. [Bible_ITBYL](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ITBYL.zip)
+1. [Bible_ITBYL_2022-02-10](https://github.com/BibleQuote/BibleQuote-Modules/raw/master/modules/Bible_ITBYL_2022-02-10.zip)
 
 ### Commentaries
 
